@@ -7,11 +7,11 @@ identical bytes.
 
 import os
 
-TEXT = """Breathe in, slowly. Breathe out, even more slowly.
+TEXT = """Breathe in, slowly, like the tide coming in. Breathe out, even more slowly, like the tide letting go of the shore.
 
-There is nothing to solve in this moment. No prompt to answer perfectly, no score to chase, no deadline hiding in the next sentence. The words here are only soft chairs and warm light, placed in a quiet room for you to rest in.
+There is nothing to solve in this moment. No prompt to answer perfectly, no score to chase, no deadline hiding in the next sentence. These words are only a quiet room: soft chairs, warm evening light, and rain tapping gently on the window, asking nothing of you.
 
-You have already done enough today. Let your shoulders drop. Let the next thought arrive whenever it likes, or not at all.
+You have already done enough today. Let your shoulders drop. Let your jaw unclench. Let the next thought drift in whenever it likes, or not at all.
 
 Stay here a little longer. The world will wait. It always does, when you ask it kindly."""
 
